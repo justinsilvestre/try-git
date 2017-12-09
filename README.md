@@ -24,4 +24,8 @@ Trying out Git!
 
 * Push local changes to remote repository
 
-  `git push <remote name> <branch>`
+  `git push remote name> <branch>`
+
+* Show log
+
+  `git log (--oneline)`
