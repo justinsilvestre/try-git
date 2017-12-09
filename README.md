@@ -3,6 +3,8 @@ Trying out Git!
 
 ## Commands we've learned
 
+### Basics
+
 * Initialize a repository
 
   `git init`
@@ -29,3 +31,18 @@ Trying out Git!
 * Show log
 
   `git log (--oneline)`
+
+
+### Branches
+
+* List all branches
+
+  `git branch -l`
+
+* Create a new branch
+
+  `git checkout -b <branch name>`
+
+* Switch to an **existing** branch.
+
+  `git checkout <branch name>`
